@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="otherlibs/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="otherlibs/mysql-connector-java-5.1.17-bin.jar"/>
+	<classpathentry kind="lib" path="otherlibs/singularity-xml.jar"/>
+	<classpathentry kind="lib" path="machineagent.jar"/>
+	<classpathentry kind="lib" path="otherlibs/mysql.jar"/>
+	<classpathentry kind="lib" path="tibcoemsjars/jms.jar"/>
+	<classpathentry kind="lib" path="tibcoemsjars/slf4j-api-1.4.2.jar"/>
+	<classpathentry kind="lib" path="tibcoemsjars/slf4j-simple-1.4.2.jar"/>
+	<classpathentry kind="lib" path="tibcoemsjars/tibcrypt.jar"/>
+	<classpathentry kind="lib" path="tibcoemsjars/tibemsd_sec.jar"/>
+	<classpathentry kind="lib" path="tibcoemsjars/tibjms.jar"/>
+	<classpathentry kind="lib" path="tibcoemsjars/tibjmsadmin.jar"/>
+	<classpathentry kind="lib" path="tibcoemsjars/tibjmsapps.jar"/>
+	<classpathentry kind="lib" path="tibcoemsjars/tibjmsufo.jar"/>
+	<classpathentry kind="lib" path="tibcoemsjars/tibrvjms.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
